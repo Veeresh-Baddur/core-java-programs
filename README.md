@@ -6,10 +6,10 @@ Topics:
 - Arrays
 - Numbers
 
-all programs done using core concept of java are like
-Arrays
-Strings
-Lopps
-Methods
-Sorting
-Searching 
+all programs done using core concept of java are like :
+- Arrays
+- Strings
+- Loops
+- Methods
+- Sorting
+- Searching 
