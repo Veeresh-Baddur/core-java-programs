@@ -1,15 +1,24 @@
 # Core Java Programs
-Contains basic Java programs sorted by category.
 
-Topics:
-- Strings
+This repository contains Core Java programs written for practice and interview preparation.
+
+## Topics Covered
 - Arrays
+- Strings
 - Numbers
-
-all programs done using core concept of java are like :
-- Arrays
-- Strings
 - Loops
 - Methods
 - Sorting
-- Searching 
+- Searching
+
+## Folder Structure
+- arrays/   → Array related programs
+- strings/  → String related programs
+- numbers/  → Number programs
+
+## Technologies Used
+- Java (Core Java)
+- OOPs Concepts
+
+## Author
+Veeresh Baddur
